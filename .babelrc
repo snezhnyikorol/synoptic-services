@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/env", "@babel/preset-react"],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-class-properties"
+  ]
+}
